@@ -67,6 +67,18 @@
 			"filterable": 1,
 			"ext": "./js/非凡资源网.json"
 		},
+
+        {
+            "key": "csp_战狼",
+            "name": "战狼┃采集",
+            "api": "csp_AppYsV2",
+            "type": "3",
+            "playerType": "1",
+            "searchable": "1",
+            "quickSearch": "1",
+            "filterable": "1",
+            "ext": "http://103.42.31.123:8787/api.php/app/"
+        },
 		{
 			"key": "drpy_js_360影视",
 			"name": "360┃影视",
