@@ -68,17 +68,7 @@
 			"ext": "./js/非凡资源网.json"
 		},
 
-        {
-            "key": "csp_战狼",
-            "name": "战狼┃采集",
-            "api": "csp_AppYsV2",
-            "type": "3",
-            "playerType": "1",
-            "searchable": "1",
-            "quickSearch": "1",
-            "filterable": "1",
-            "ext": "http://103.42.31.123:8787/api.php/app/"
-        },
+        
 		{
 			"key": "drpy_js_360影视",
 			"name": "360┃影视",
@@ -181,14 +171,7 @@
 			"filterable": 1,
 			"ext": "./js/臭蛋蛋.json"
 		},
-		{
-			"key": "drpy_js_小宝影院[飞]",
-			"name": "小宝┃影视",
-			"type": 3,
-			"api": "./libs/drpy2.min.js",
-			"m3u8ads": "hd.youyhn.com",
-			"ext": "./js/小宝影院[飞].js"
-		},
+		
 		{
 			"key": "drpy_js_独播库[飞]",
 			"name": "独播┃影视",
