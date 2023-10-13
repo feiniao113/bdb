@@ -67,8 +67,6 @@
 			"filterable": 1,
 			"ext": "./js/非凡资源网.json"
 		},
-
-        
 		{
 			"key": "drpy_js_360影视",
 			"name": "360┃影视",
@@ -87,22 +85,14 @@
 			"ext": "./js/爱车MV.js"
 		},
 		{
-			"key": "teng",
-			"name": "腾讯┃影视",
+			"key": "drpy_腾讯",
+			"name": "腾讯┃视频",
 			"type": 3,
-			"api": "csp_QQ",
+			"api": "./libs/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"changeable": 0,
-			"jar": "./zhuzige.jar"
-		},
-		{
-			"key": "drpy_js_腾讯",
-			"name": "腾讯┃影视",
-			"type": 3,
-			"api": "./libs/drpy2.min.js",
-			"ext": "./js/腾云驾雾.js"
+			"ext": "./js/txqq.js"
 		},
 		{
 			"key": "ai",
@@ -155,24 +145,6 @@
 			"ext": "./js/菜狗.js"
 		},
 		{
-			"key": "直播转点播1",
-			"name": "电视┃直播",
-			"type": 3,
-			"api": "clan://TVBox/XYQTVBox/drpy_js/JS/lib/直播转点播.js",
-			"ext": "clan://TVBox/XYQTVBox/drpy_js/tv/直播.txt&&&https://user-images.githubusercontent.com/128656815/232288783-ac19d462-9b3f-4a27-aac1-f818909bdd20.jpg"
-		},
-		{
-			"key": "臭蛋蛋",
-			"name": "臭蛋┃影视",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 0,
-			"filterable": 1,
-			"ext": "./js/臭蛋蛋.json"
-		},
-		
-		{
 			"key": "drpy_js_独播库[飞]",
 			"name": "独播┃影视",
 			"type": 3,
@@ -201,13 +173,6 @@
 			"type": 3,
 			"api": "./libs/drpy2.min.js",
 			"ext": "./js/88看球.js"
-		},
-		{
-			"key": "drpy_js_DJ音乐",
-			"name": "DJ┃音乐",
-			"type": 3,
-			"api": "./libs/drpy2.min.js",
-			"ext": "./js/DJ音乐.js"
 		},
 		{
 			"key": "drpy_js_NY影院",
@@ -286,14 +251,6 @@
 			"api": "./libs/drpy2.min.js",
 			"ext": "./js/网易公版影像.js"
 		},
-		{
-			"key": "drpy_js_腾云驾雾",
-			"name": "腾云┃影视",
-			"type": 3,
-			"api": "./libs/drpy2.min.js",
-			"ext": "./js/腾云驾雾.js"
-		},
-		
 		{
 			"key": "drpy_js_骚火",
 			"name": "骚火┃影视",
@@ -478,12 +435,12 @@
 			"type": 2,
 			"url": "Sequence"
 		},
-
-{
+		{
 			"name": "小书",
 			"type": 1,
-			"url": "http://27.124.4.42:4567/jhjson/ceshi.php?url="},		
-{
+			"url": "http://27.124.4.42:4567/jhjson/ceshi.php?url="
+		},
+		{
 			"name": "大厂",
 			"type": 1,
 			"url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&format=data&url="
