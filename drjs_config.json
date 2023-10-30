@@ -23,16 +23,7 @@
 			"ext": "./js/duboku.json",
 			"jar": "./custom_spider.jar"
 		},
-		{
-			"key": "csp_清风",
-			"name": "清风┃影视",
-			"type": 3,
-			"api": "csp_XBiu",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://mcoun.com/vodtype/{cateId}-{catePg}.html"
-		},
+		
 		{
 			"key": "py_cctv_集合",
 			"name": "央视┃集合",
