@@ -150,14 +150,7 @@
 			"api": "./libs/drpy2.min.js",
 			"ext": "./js/我的哔哩.js"
 		},
-		{
-			"key": "drpy_js_188看",
-			"name": "188┃影视",
-			"type": 3,
-			"api": "./libs/drpy2.min.js",
-			"m3u8ads": "hd.youyhn.com",
-			"ext": "./js/188看.js"
-		},
+		
 		{
 			"key": "drpy_js_88看球",
 			"name": "体育┃直播",
