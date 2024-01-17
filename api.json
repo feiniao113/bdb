@@ -541,17 +541,6 @@
 			"ext": "https://www.69mj.com/xgapp.php/v2/"
 		},
 		{
-			"key": "七年影视",
-			"name": "七年┃影视",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"playerType": "1",
-			"ext": "./lib/qinian.json"
-		},
-		{
 			"key": "py_cctv",
 			"name": "央视┃大全",
 			"type": 3,
