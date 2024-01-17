@@ -81,16 +81,7 @@
 			"filterable": 1,
 			"ext": "./lib/shyyVIP.json"
 		},
-		{
-			"key": "开心果",
-			"name": "开心果┃秒播",
-			"type": 3,
-			"api": "csp_AppYsV2",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
-		},
+		
 		{
 			"key": "益达影视",
 			"name": "美益达┃秒播",
@@ -101,16 +92,7 @@
 			"filterable": 1,
 			"ext": "https://myd666.tv/lvdou_api.php/v1.vod"
 		},
-		{
-			"key": "csp_五五",
-			"name": "五五┃秒播",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./lib/55.json"
-		},
+		
 		{
 			"key": "农民影视",
 			"name": "农民┃秒播",
