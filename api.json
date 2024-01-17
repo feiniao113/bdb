@@ -205,16 +205,6 @@
 			"ext": "./lib/heihu.json"
 		},
 		{
-			"key": "csp_xBPQ_奇优",
-			"name": "奇优┃秒播",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./lib/qiyou.json"
-		},
-		{
 			"key": "酷茶影视",
 			"name": "酷茶┃秒播",
 			"type": 3,
@@ -223,26 +213,6 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "./lib/kucha.json"
-		},
-		{
-			"key": "光棍影视",
-			"name": "光棍┃秒播",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./lib/guangun.json"
-		},
-		{
-			"key": "csp_好戏",
-			"name": "好戏┃秒播",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./lib/haoxiys.json"
 		},
 		{
 			"key": "VIP影视",
@@ -273,16 +243,6 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "./lib/qixinyingshi.json"
-		},
-		{
-			"key": "土豪影视",
-			"name": "土豪┃秒播",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./lib/tuhaoys.json"
 		},
 		{
 			"key": "厂长",
@@ -453,122 +413,6 @@
 			]
 		},
 		{
-			"key": "索尼资源",
-			"name": "索尼┃2K",
-			"type": 1,
-			"api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
-			"categories": [
-				"动作片",
-				"国产剧",
-				"喜剧片",
-				"爱情片",
-				"科幻片",
-				"恐怖片",
-				"剧情片",
-				"战争片",
-				"欧美剧",
-				"韩剧",
-				"日剧",
-				"港剧",
-				"台剧",
-				"泰剧",
-				"海外剧",
-				"纪录片",
-				"大陆综艺",
-				"日韩综艺",
-				"港台综艺",
-				"欧美综艺",
-				"国产动漫",
-				"日韩动漫",
-				"欧美动漫",
-				"动画片",
-				"港台动漫",
-				"海外动漫",
-				"演唱会",
-				"体育赛事",
-				"篮球",
-				"足球",
-				"斯诺克"
-			]
-		},
-		{
-			"key": "csp_xml_新浪",
-			"name": "新浪┃2K",
-			"type": 1,
-			"api": "https://api.xinlangapi.com/xinlangapi.php/provide//vod/",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
-			"categories": [
-				"动作片",
-				"大陆剧",
-				"喜剧片",
-				"科幻片",
-				"恐怖片",
-				"爱情片",
-				"剧情片",
-				"战争片",
-				"纪录片",
-				"动漫电影",
-				"欧美剧",
-				"港澳剧",
-				"韩剧",
-				"台湾剧",
-				"日剧",
-				"海外剧",
-				"泰剧",
-				"体育",
-				"国产动漫",
-				"日韩动漫",
-				"欧美动漫",
-				"港台动漫",
-				"海外动漫",
-				"大陆综艺",
-				"港台综艺",
-				"日韩综艺",
-				"欧美综艺"
-			]
-		},
-		{
-			"key": "高清资源网",
-			"name": "高清┃2K",
-			"type": 1,
-			"api": "https://api.1080zyku.com/inc/apijson.php",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
-			"categories": [
-				"动作片",
-				"国产剧",
-				"喜剧片",
-				"爱情片",
-				"科幻片",
-				"恐怖片",
-				"剧情片",
-				"战争片",
-				"记录片",
-				"欧美剧",
-				"日本剧",
-				"泰国剧",
-				"韩国剧",
-				"台湾剧",
-				"香港剧",
-				"大陆综艺",
-				"港台综艺",
-				"日韩综艺",
-				"欧美综艺",
-				"国产动漫",
-				"日韩动漫",
-				"欧美动漫"
-			]
-		},
-		{
 			"key": "爱奇异",
 			"name": "爱奇艺(官)",
 			"type": 3,
@@ -633,16 +477,6 @@
 			"ext": "./lib/zhenbuka.json"
 		},
 		{
-			"key": "麻衣呀呼",
-			"name": "麻衣┃呀呼",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./lib/mayiyahu.json"
-		},
-		{
 			"key": "TVB云播",
 			"name": "TVB┃云播",
 			"type": 3,
@@ -658,16 +492,6 @@
 			"type": 3,
 			"api": "./lib/drpy2.min.js",
 			"ext": "./lib/changmeng.js"
-		},
-		{
-			"key": "555影视",
-			"name": "555┃蓝光",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./lib/555.json"
 		},
 		{
 			"key": "热播之家",
@@ -792,36 +616,6 @@
 			"ext": "./lib/cctv.py"
 		},
 		{
-			"key": "相声小品",
-			"name": "相声┃小品",
-			"type": 3,
-			"api": "csp_Bili",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./lib/Blixs.json"
-		},
-		{
-			"key": "戏 曲",
-			"name": "国粹┃戏曲",
-			"type": 3,
-			"api": "csp_Bili",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./lib/Blixq.json"
-		},
-		{
-			"key": "演唱会",
-			"name": "演唱会",
-			"type": 3,
-			"api": "csp_Bili",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./lib/yanchanghui.txt"
-		},
-		{
 			"key": "js_310直播",
 			"name": "三一┃直播",
 			"type": 3,
@@ -874,33 +668,6 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "./lib/tuxiaobei.js"
-		},
-		{
-			"key": "学习园地",
-			"name": "学习┃园地",
-			"type": 3,
-			"api": "csp_Bili",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./lib/Blixt.json"
-		},
-		{
-			"key": "学外语",
-			"name": "学习┃外语",
-			"type": 3,
-			"api": "csp_Bili",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./lib/waiyu.json"
-		},
-		{
-			"key": "喜马拉雅",
-			"name": "喜马┃拉雅",
-			"type": 3,
-			"api": "./lib/drpy2.min.js",
-			"ext": "./lib/ximalaya.js"
 		},
 		{
 			"key": "MTV",
