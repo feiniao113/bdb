@@ -113,6 +113,16 @@
 			"filterable": 1,
 			"ext": "./lib/996影视.json"
 		},
+		{
+			"key": "奈飞影视",
+			"name": "鸭奈飞┃秒播",
+			"type": 3,
+			"api": "csp_XYQHiker",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./lib/ynfys.json"
+		},
 		
 		{
 			"key": "奈飞中文",
