@@ -216,16 +216,6 @@
 			"ext": "./lib/dandan.json"
 		},
 		{
-			"key": "蚂蚁",
-			"name": "蚂蚁┃2K",
-			"type": 3,
-			"api": "csp_AppYsV2",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "http://wushutvcms.byzz.top/api.php/app/"
-		},
-		{
 			"key": "达达龟",
 			"name": "达龟┃2K",
 			"type": 3,
