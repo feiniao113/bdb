@@ -22,16 +22,6 @@
 			"ext": "./lib/douban.js"
 		},
 		{
-			"key": "直播转点播",
-			"name": "电视┃点播",
-			"type": 3,
-			"api": "./lib/zbzdb.js",
-			"searchable": 1,
-			"quickSearch": 0,
-			"filterable": 0,
-			"ext": "./lib/zb.json"
-		},
-		{
 			"key": "荐片",
 			"name": "荐片┃影视",
 			"type": 3,
