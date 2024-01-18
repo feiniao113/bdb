@@ -343,16 +343,6 @@
 			"changeable": 0
 		},
 		{
-			"key": "csp_真不卡",
-			"name": "不卡┃影视",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./lib/zhenbuka.json"
-		},
-		{
 			"key": "TVB云播",
 			"name": "TVB┃云播",
 			"type": 3,
