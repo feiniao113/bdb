@@ -342,16 +342,7 @@
 			"filterable": 1,
 			"changeable": 0
 		},
-		{
-			"key": "TVB云播",
-			"name": "TVB┃云播",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./lib/TVB.json"
-		},
+		
 		{
 			"key": "畅梦",
 			"name": "畅梦┃影视",
@@ -359,16 +350,7 @@
 			"api": "./lib/drpy2.min.js",
 			"ext": "./lib/changmeng.js"
 		},
-		{
-			"key": "热播之家",
-			"name": "热播┃之家",
-			"type": 3,
-			"api": "csp_XYQHiker",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./lib/rebozj.json"
-		},
+		
 		{
 			"key": "HDmoli",
 			"name": "魔力┃高清",
@@ -390,16 +372,7 @@
 			"playerType": "1",
 			"ext": "./lib/aikan.json"
 		},
-		{
-			"key": "策驰影院",
-			"name": "策驰┃影院",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./lib/cechi.json"
-		},
+		
 		{
 			"key": "csp_Voflix",
 			"name": "Voflix",
@@ -410,16 +383,7 @@
 			"filterable": 1,
 			"ext": "./lib/voflix.json"
 		},
-		{
-			"key": "石榴影视",
-			"name": "石榴┃影视",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./lib/shiliu.json"
-		},
+		
 		{
 			"key": "两个BT",
 			"name": "两个┃BT",
@@ -430,16 +394,7 @@
 			"filterable": 1,
 			"ext": "./lib/bttwo.json"
 		},
-		{
-			"key": "csp_AppYsV2",
-			"name": "69┃美剧",
-			"type": 3,
-			"api": "csp_AppYsV2",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://www.69mj.com/xgapp.php/v2/"
-		},
+		
 		{
 			"key": "py_cctv",
 			"name": "央视┃大全",
