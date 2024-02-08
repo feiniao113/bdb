@@ -135,16 +135,7 @@
 			"filterable": 0,
 			"ext": "./lib/VIPyingshi.json"
 		},
-		{
-			"key": "csp_七月",
-			"name": "七月┃影视",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./lib/qiyue.json"
-		},
+		
 		{
 			"key": "厂长",
 			"name": "厂长┃2K",
