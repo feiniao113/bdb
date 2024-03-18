@@ -5,7 +5,7 @@
 		{
 			"name": "live",
 			"type": 0,
-			"url": "https://raw.githubusercontent.com/feiniao113/livetvchn/main/.txt",
+			"url": "",
 			"epg": "http://epg.112114.eu.org/?ch={name}&date={date}",
 			"logo": "https://epg.112114.xyz/bingimg/logo/{name}.png"
 		}
@@ -28,17 +28,7 @@
 			"api": "./lib/drpy2.min.js",
 			"ext": "./lib/jianpian.js"
 		},
-		{
-			"key": "万达影视",
-			"name": "万达┃影视",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"playerType": "1",
-			"ext": "./lib/wandays.json"
-		},
+		
 		{
 			"key": "csp_vs",
 			"name": "VS┃影视",
